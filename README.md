@@ -3,6 +3,7 @@
 Un poco de mí:  
 - 🤜🏽  &nbsp;&nbsp;I'm a frontend developer in MO Tecnologías 
 - 🤓  &nbsp;&nbsp;I'm currently learning Vue.js
+- :globe_with_meridians:  &nbsp;&nbsp;[My portfolio](https://angelicajuliev.github.io/portfolio/)
 - 💻  &nbsp;&nbsp;I'm working on... It's coming soon
 - 💬  &nbsp;&nbsp;Ask me about Angular2+, I love it!
 - 🛠  &nbsp;&nbsp;My tool for do a better world is: PROGRAMMING 
@@ -29,4 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://gist.github.com/rxaviers/7360908
 -->
