@@ -1,12 +1,12 @@
 ## Soy Julieth Gómez
 
 Un poco de mí:  
-- 🤜🏽  &nbsp;&nbsp;I'm a frontend developer in Globant
-- 🤓  &nbsp;&nbsp;I'm currently learning React Native
+- 🤜🏽  &nbsp;&nbsp;I'm a frontend developer
+- 🤓  &nbsp;&nbsp;I'm currently learning more about the user to offer a better UX
 - :globe_with_meridians:  &nbsp;&nbsp;[My portfolio](https://angelicajuliev.github.io/portfolio/)
 - 💻  &nbsp;&nbsp;I'm working on... It's coming soon
 - 💬  &nbsp;&nbsp;Ask me about Angular2+ and React, I love them!
-- 🛠  &nbsp;&nbsp;My tool for do a better world is: PROGRAMMING 
+- 🛠  &nbsp;&nbsp;My tool for doing a better world is: PROGRAMMING 🤓
 - 🇨🇴  &nbsp;&nbsp;Talent from Colombia
 - 🌳  &nbsp;&nbsp;I love the nature
 - 💃🏽  &nbsp;&nbsp;I love dance!!
